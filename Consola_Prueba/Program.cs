@@ -10,7 +10,7 @@ namespace Consola_Prueba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola :) ME la pelas");
+            Console.WriteLine("hola :) ME la pelas qlo");
         }
     }
 }
